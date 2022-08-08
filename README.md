@@ -179,6 +179,9 @@ code dari foldder barang home.blade.php
 
 ![image](https://user-images.githubusercontent.com/109930345/183358890-fb7d30fa-1bb8-4d55-8d04-eacf0c966d49.png)
 
-code dari folder kategopri 
+hasil dari folder kategopri 
 
-dan hasil untuk 
+code dari index.blade.php
+
+![image](https://user-images.githubusercontent.com/109930345/183360914-205b169c-d3a1-4423-bdbe-c42a7b51ae43.png)
+
