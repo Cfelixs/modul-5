@@ -172,6 +172,7 @@ kategori
 </tbody>
 </table>
 </div>
+```
 
 lalu hasil dari barang seperti berikut 
 code dari foldder barang home.blade.php 
