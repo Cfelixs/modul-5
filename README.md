@@ -143,4 +143,40 @@ Selanjutnya pada folder kategori file index.blade.php
 
 <!-- @section('title') barang @endsection berarti mengelompokkan agar bisa dipanggil ke berbagai file seperti pewarisan -->
 
+codenya akan ditam,pilkan seperti dibawah ini 
+```
+@extends('layout.app')
 
+@section('title')
+kategori
+@endsection
+
+@section('content')
+<div class="mt-3">
+    <table class="table table-stripped">
+        <thread>
+            <tr>
+                <th width="5%">No.</th>
+                <th>Nama</th>
+                <th>kategori</th>
+                <th width="15%>Aksi</th>
+</tr>
+</thread
+
+<tbody>
+<tr>
+    <td>1</td>
+    <td>ATK</td>
+    <td>Hapus | Edit</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+lalu hasil dari barang seperti berikut 
+code dari foldder barang home.blade.php 
+![image](https://user-images.githubusercontent.com/109930345/183358890-fb7d30fa-1bb8-4d55-8d04-eacf0c966d49.png)
+
+code dari folder kategopri 
+
+dan hasil untuk 
